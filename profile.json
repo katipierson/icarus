@@ -1,0 +1,1946 @@
+{
+	"UserID": "",
+	"MetaResources": [
+		{
+			"MetaRow": "Refund",
+			"Count": 100000
+		},
+		{
+			"MetaRow": "Credits",
+			"Count": 10000000
+		},
+		{
+			"MetaRow": "Exotic1",
+			"Count": 100000
+		},
+		{
+			"MetaRow": "Exotic_Red",
+			"Count": 100000
+		},
+		{
+			"MetaRow": "Biomass",
+			"Count": 100000
+		},
+		{
+			"MetaRow": "Licence",
+			"Count": 500
+		}
+	],
+	"UnlockedFlags": [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150 ],
+	"Talents": [
+		{
+			"RowName": "Workshop_Envirosuit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_3",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_4",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_5",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_6",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_7",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Shengong2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Inaris",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Larkwell_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Envirosuit_Larkwell_Bravo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Head",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Arms",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Legs",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Chest",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Feet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Helmet_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Arms_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Legs_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Chest_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Feet_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Helmet_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Arms_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Legs_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Chest_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Carbon_Feet_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Alpha_Head",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Alpha_Arms",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Alpha_Legs",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Alpha_Chest",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Alpha_Feet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Black_Head",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Black_Arms",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Black_Legs",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Black_Chest",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Armor_Black_Feet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Survival_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Backpack_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Backpack_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Mining_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Backpack_Medic",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Archery_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Backpack_Hunter",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Backpack_Tech",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Movement",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Slots",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Fire_Resistance",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Poison_Resistence",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Slots2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Carry_Weight",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Consumption",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_New_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_New_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_World_Boss",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Fall_Damage",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Temp",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Fishing",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Extremes",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Caving",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Taming",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Module_Wounds",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Scanner",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Fishfinder",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_CreatureScanner",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Firewhacker_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Canteen_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Oxygen_Tank_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Heated_Canteen_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Oxygen_Tank_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Workshop_Repair",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dropship_Beacon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Inaris_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Inaris_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Inaris_Bravo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Inaris_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Echo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Inaris_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Inaris_Bravo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Inaris_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Inaris_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Echo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Beta_0",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Delta_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Inaris_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Knife_Inaris_Bravo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Inaris_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Knife_Shengong_Echo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Shengong_Delta_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Inaris_Bravo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pickaxe_Inaris_Delta_0",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Inaris_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Spear_Shengong_Echo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sickle_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sickle_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sickle_Inaris_00",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hammer_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Printed_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Larkwell",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Printed_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Printed_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Inaris_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Standard",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bow_Shengong_Echo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Ballistic",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Inaris_Bravo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Tazer",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Inaris_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Larkwell_Bleed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Arrow_Inaris_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crossbow_Inaris_A",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Bolt_Standard",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Bolt_Piercing",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Bolt_Electroshock",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Larkwell_Bolt_Explosive",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crossbow_Inaris_B",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crossbow_Inaris_C",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crossbow_Inaris_D",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_CHAC_Pistol",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Pistol_Ammo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Printed_Cot",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Campfire_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hydrazine_Canister",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Biofuel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Furnace_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hydrazine_Cooker",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crate_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Hydrazine_Heater",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Crop_Plot",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Shovel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Radar",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Extractor",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Power_Source",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Cow",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Chicken",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Sheep",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_D1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_D2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Horse_A1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_C1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Cat_A1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Horse_A2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_B1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_A1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Cat_A2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Horse_A3",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_B2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Dog_A2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Creature_Cat_A3",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Crate_Printed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Scoped_Compound_Bow_Workshop",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Teleporter_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Pistol_B",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Pistol_A",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_XL_Storage_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_LED_Lighting_Crate",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Kryptic_Head",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Kryptic_Chest",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Kryptic_Legs",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Kryptic_Arms",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Kryptic_Feet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Kryptic_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Scoped_Kryptic_Compound_Bow_Workshop",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Backpack_Chef",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_CHAC_Shotgun",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Shotgun_Ammo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Pet_BearCub",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Pet_Raccoon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_ResourceKiller",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_InsaneLeveler",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_LavaLord",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Movement",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_AuxSlot",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Basic_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Farming_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Pro_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Mining_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Mini_Foundry",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Nuclear_Extractor",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_MultiTeleport",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Stone",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Wood",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Dirt",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Oxite",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Silica",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Sulfur",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Coal_Fuel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Sulfur_0",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Copper",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Synthetic_Enzymes",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Gold",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Aluminium",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Platinum",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Titanium",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Clay",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Scoria",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Resource_Pack_Obsidian",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Carrot",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Watermelon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Berry",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Corn",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_SugarCane_0",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_SugarCane",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Tomato",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Potato",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Bramble",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_GreenTea",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Coconut",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Cocao",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Lily",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Squash",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Yeast",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Coffee",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Pumpkin",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Wheat",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Beans",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Avocado",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Kumara",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Mushroom",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Rhubarb",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_WildTea",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Reed",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Strawberry",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Fiber",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Food",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Purification_Tablet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Bandage_Shengong",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Super_Food",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dressing_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Oxygen_Gel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Stamina_Gel",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Soda_Consumable",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antiparasitic_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antipoison_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antiparasitic_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antiparasitic_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Blood_Thinning_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antipoison_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antipoison_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antibiotic_Vaccine_Alpha",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Blood_Thinning_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Blood_Thinning_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antibiotic_Vaccine_Beta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Antibiotic_Vaccine_Charlie",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Pet_Rabbit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Pet_Arctic_Rabbit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Pet_Moa",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Pet_Arctic_Moa",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Workshop_Saddle",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Petes_Bee_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Jimk_Workshop_Alph_Tent",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Jimk_Custom_Options_Handheld",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dark_AuxSlot",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dark_ResourceKiller",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dark_PantherModule",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dark_LavaLord",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Dark_Movement",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sniper_Incendiary_Ammo",
+			"Rank": 1
+		},
+		{
+			"RowName": "T5_Head",
+			"Rank": 1
+		},
+		{
+			"RowName": "T5_Arms",
+			"Rank": 1
+		},
+		{
+			"RowName": "T5_Chest",
+			"Rank": 1
+		},
+		{
+			"RowName": "T5_Legs",
+			"Rank": 1
+		},
+		{
+			"RowName": "T5_Feet",
+			"Rank": 1
+		},
+		{
+			"RowName": "Farmer_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Cheff_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Explorer_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Lava_Backpack",
+			"Rank": 1
+		},
+		{
+			"RowName": "Meta_Lantern",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Axe_Shengong_Delta",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Meta_Knife",
+			"Rank": 1
+		},
+		{
+			"RowName": "Meta_Knife_Theseus",
+			"Rank": 1
+		},
+		{
+			"RowName": "Meta_Spear_Theseus",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Seed_Banana",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Splint_Kit",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_Alphawolf",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_Sandworm",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_Scorpion",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_IceMammoth",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_RockGolem",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_SwampApe",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_LavaHunter",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Biolab_Inhaler_Hammerhead",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Sniper_Ammo",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Recon",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Range",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_Defence",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Forest_WS_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Extraction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Glacier_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Stockpile_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Extraction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Delivery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Riverlands_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Recovery_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Extermination_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Desert_Research_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Extraction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Arctic_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Scan",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_Stockpile_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyons_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Canyon_LongSurvey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Farming",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Omni_",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Omni_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Omni_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Omni_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Omni_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Omni_Research_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_OLY_Omni_Outpost",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Extermination2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_A_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_B_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_B_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_B_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_B_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_B_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_B_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_C_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_C_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_C_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_C_Extermination2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_C_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_C_Fishing",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Delivery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Research_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_D_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_E_Expedition",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_E_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_E_Extraction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_E_Survey",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Styx_E_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_Story_1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_Story_2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_Story_3",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_Story_4",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_Story_5",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_Story_6",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_PRO_Ashlands_Story",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_PRO_Icesheet_Story",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_A_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_A_Extraction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_A_Stockpile",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_B_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_B_Extermination",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_C_Construction",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_C_Exploration",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_C_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_D_Transport",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_D_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_D_Recovery",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_D_Resupply",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_D_Rescue",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_Pro_E_Research",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_PRO_Nullsector_Story",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_A",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_B",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_C",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_C2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_D",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_D2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_E",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_F",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_O1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_O2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_RG_Final",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_A",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_B",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_C",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_C2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_D",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_D2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_E",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_E2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_F",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_G",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_O1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_O2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_Ape_Final",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_A",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_A2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_B",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_C",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_C2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_D",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_D2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_O1",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_O2",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_O3",
+			"Rank": 1
+		},
+		{
+			"RowName": "Prospect_GH_IM_Final",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_CHAC_Rifle",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Rifle_Round",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_Backpack_Farmers",
+			"Rank": 1
+		},
+		{
+			"RowName": "Workshop_AssaultRifle_Round",
+			"Rank": 1
+		}
+	],
+	"NextChrSlot": 1,
+	"DataVersion": 4
+}
