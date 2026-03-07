@@ -4,11 +4,13 @@
 
 ICARUS ist ein sitzungsbasiertes PvE-Überlebensspiel für Solospieler oder bis zu acht Spieler im Koop. Erkunde eine brutale Wildnis nach einem gescheiterten Terraforming-Versuch. Überlebe lange genug, um Exoten abzubauen, kehre dann in den Orbit zurück und stelle fortschrittlichere Technologien her.
 
-Es ist also ein Open World Craft Survival Game. Mit Credits, Exotics, Red Exotics, Biomass & Licence können in der Station hilfreiche Items erst freigeschalten und anschließend gekauft werden.
+Es ist also ein Open World Craft Survival Game. Mit Credits, Exotics, Red Exotics, Biomass, Uranium & Licence können in der Station hilfreiche Items erst freigeschalten und anschließend gekauft werden.
 Bestimmte Missionen schalten weitere erlernbare Blaupausen frei.
 
-Das heißt um alles frei zu schalten benötigt man viel Zeit und noch mehr Credits, Exotics, Red Exotics, Biomass & Licences.
+Das heißt um alles frei zu schalten benötigt man viel Zeit und noch mehr Credits, Exotics, Red Exotics, Biomass, Uranium & Licences.
 Teilweise lassen sich diverse Items im Vanilla ohne Mods nicht aktivieren, weil man die Kampagne nicht machen kann. Der Kamapgenenbaum teil sich an einigen Stellen udn man muss entscheiden, welche Items man freischalten möchte. In diesem Profil sind diese trotzdem aktiviert.
+
+In der profile.json sind alle abgeschlossenen Missionen und Ressourcen gespeichert.
 
 ### Aktuell gibt es folgende DLCs, Packs und Outposts
 
@@ -38,7 +40,7 @@ Teilweise lassen sich diverse Items im Vanilla ohne Mods nicht aktivieren, weil 
 * Styx Expansion
 * Neue Grenzen
 * Große Jagd Kampagnen
-* Coming Soon: Dangerous Horizons Expansion
+* Dangerous Horizons Expansion
 
 ## Was erhalte ich in diesem Profil?
 
@@ -49,11 +51,12 @@ Dieses Profil bietet:
   * Exotics: 100000
   * Red Exotics: 100000
   * Biomass: 100000
+  * Uranium: 100000
   * Licences: 500
 * Unlocked Flags: alle
 * Talents
   * freigeschaltete Workahop-Items: alle
-  * abgeschlossene Mission: alle auf Prometheus, Styx, Olympus
+  * abgeschlossene Mission: alle auf Prometheus, Styx, Olympus, Elysium
   * Kampagnen der großen Jagd: alle in allen Bäumen
  
 Alle Kampagnen, Missionen sind nicht abgeschlossen, sondern trotzdem spielbar.
